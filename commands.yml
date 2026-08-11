@@ -1,0 +1,65 @@
+# This is the Bukkit commands configuration file for Paper.
+#
+# If you need help with the configuration or have any questions related to Paper,
+# join us in our Discord or check the docs page.
+#
+# File Reference: https://docs.papermc.io/paper/reference/bukkit-commands-configuration/
+# Docs: https://docs.papermc.io/
+# Discord: https://discord.gg/papermc
+# Website: https://papermc.io/
+
+command-block-overrides:
+- '*'
+ignore-vanilla-permissions: false
+aliases:
+  lp: []
+  perm: []
+  luckperms: []
+  permissions: []
+  perms: []
+  we: []
+  fawe: []
+  worldedit: []
+  luckperms:lp:
+  - []
+  luckperms:luckperms:
+  - []
+  luckperms:perm:
+  - []
+  luckperms:permission:
+  - []
+  luckperms:permissions:
+  - []
+  luckperms:perms:
+  - []
+  fastasyncworldedit: []
+  rg: []
+  worldguard:god:
+  - []
+  worldguard:heal:
+  - []
+  worldguard:regions:
+  - []
+  worldguard:rg:
+  - []
+  worldguard:slay:
+  - []
+  worldguard:region:
+  - []
+  worldguard:ungod:
+  - []
+  fastasyncworldedit:fastasyncworldedit:
+  - []
+  fastasyncworldedit:fawe:
+  - []
+  region: []
+  regions: []
+  ungod: []
+  god: []
+  permission: []
+  slay: []
+  heal: []
+  fastasyncworldedit:we:
+  - []
+  fastasyncworldedit:worldedit:
+  - []
